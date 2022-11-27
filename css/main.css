@@ -16,7 +16,7 @@ body {
     overflow: hidden;
 }
 #upper {
-    background-image: url(download.jpg);
+    background-image: url(/images/download.jpg);
     height: 200px;
 }
 .section-1 {
